@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1cae2470-9225-4e60-b240-d30cbb453d67" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Game 2D Metroidvania/.idea/sonarlint/issuestore/0/9/0969a10a28dd87f196a8fc629576f5e4564a5e20" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Game 2D Metroidvania/.idea/sonarlint/issuestore/0/9/09e7b16e64c564e8aee9078d9ddac5ce2a53b88e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Game 2D Metroidvania/.idea/sonarlint/issuestore/2/8/28681532ce74259e4e5564225f864786f3486c97" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Game 2D Metroidvania/.idea/sonarlint/issuestore/4/7/47af1e9f8d980efccbbf3c30ebed067b460cd802" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Game 2D Metroidvania/.idea/sonarlint/issuestore/6/4/649db4ef1e49e7252234c31fc75c5fe442852a02" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Game 2D Metroidvania/.idea/sonarlint/issuestore/7/c/7c0690269cd36d1615202475fd687d26c8c39c7e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Game 2D Metroidvania/.idea/sonarlint/issuestore/9/1/917bb721807dddd623863edd804f44ba3934a51a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Game 2D Metroidvania/.idea/sonarlint/issuestore/c/3/c389e3a2cca2b2cd4bd28f218cee807dfd0a5d53" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Game 2D Metroidvania/.idea/sonarlint/issuestore/e/a/ea4c05c62874640fff41daaecc2643e2e1432be9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Game 2D Metroidvania/.idea/sonarlint/issuestore/f/9/f95b422c2ea7d68c51656d7869e6a3ed7e6970e6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Game 2D Metroidvania/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Game 2D Metroidvania/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Game 2D Metroidvania/.idea/sonarlint/securityhotspotstore/0/9/0969a10a28dd87f196a8fc629576f5e4564a5e20" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Game 2D Metroidvania/.idea/sonarlint/securityhotspotstore/0/9/09e7b16e64c564e8aee9078d9ddac5ce2a53b88e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Game 2D Metroidvania/.idea/sonarlint/securityhotspotstore/2/8/28681532ce74259e4e5564225f864786f3486c97" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Game 2D Metroidvania/.idea/sonarlint/securityhotspotstore/4/7/47af1e9f8d980efccbbf3c30ebed067b460cd802" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Game 2D Metroidvania/.idea/sonarlint/securityhotspotstore/6/4/649db4ef1e49e7252234c31fc75c5fe442852a02" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Game 2D Metroidvania/.idea/sonarlint/securityhotspotstore/7/c/7c0690269cd36d1615202475fd687d26c8c39c7e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Game 2D Metroidvania/.idea/sonarlint/securityhotspotstore/9/1/917bb721807dddd623863edd804f44ba3934a51a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Game 2D Metroidvania/.idea/sonarlint/securityhotspotstore/c/3/c389e3a2cca2b2cd4bd28f218cee807dfd0a5d53" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Game 2D Metroidvania/.idea/sonarlint/securityhotspotstore/e/a/ea4c05c62874640fff41daaecc2643e2e1432be9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Game 2D Metroidvania/.idea/sonarlint/securityhotspotstore/f/9/f95b422c2ea7d68c51656d7869e6a3ed7e6970e6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Game 2D Metroidvania/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Game 2D Metroidvania/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Game 2D Metroidvania/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Game 2D Metroidvania/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GameFolder/Keeper/Scripts/KeeperController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GameFolder/Keeper/Scripts/KeeperController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/CurrentMaximizeLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/CurrentMaximizeLayout.dwlt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/61d61d5f64f449e3a5da7a3ba725297ffc00/05/89f9bf61/AudioSource.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GameFolder/Player/Scripts/AddHealth.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GameFolder/Player/Scripts/PlayerHealth.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GameFolder/Scripts/BackToMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GameFolder/Scripts/DestroyOnLoadAssets.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GameFolder/Scripts/DestroySoundManagerMainMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GameFolder/Scripts/DisableDebuggerUpdate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.universal@12.1.6/Runtime/2D/Light2DManager.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29rX66nwcBZZNRoNW9vLaGUNwbm" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Discover.Launch.Via.Unity&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;rider.run.widget.enabled.cache&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="UnitTests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2021.3.3f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath &quot;F:\Projects\Unity Projects\Game 2D Metroidvania&quot; -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="F:\Projects\Unity Projects\Game 2D Metroidvania" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1cae2470-9225-4e60-b240-d30cbb453d67" name="Changes" comment="" />
+      <created>1653872006162</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653872006162</updated>
+      <workItem from="1653872014112" duration="1000" />
+      <workItem from="1653957419814" duration="22000" />
+      <workItem from="1655687857428" duration="2100000" />
+      <workItem from="1656393786480" duration="599000" />
+      <workItem from="1656731262243" duration="528000" />
+      <workItem from="1656732437376" duration="1019000" />
+      <workItem from="1657479963786" duration="1668000" />
+      <workItem from="1657503884120" duration="4688000" />
+      <workItem from="1657515257363" duration="2805000" />
+      <workItem from="1658374277007" duration="3693000" />
+      <workItem from="1658897704092" duration="3369000" />
+      <workItem from="1661369989644" duration="959000" />
+      <workItem from="1661552275243" duration="2340000" />
+      <workItem from="1665360432967" duration="5043000" />
+      <workItem from="1666495462211" duration="1000" />
+      <workItem from="1666497282223" duration="1443000" />
+      <workItem from="1667973715873" duration="1020000" />
+      <workItem from="1670796818909" duration="4434000" />
+      <workItem from="1671043345654" duration="6843000" />
+      <workItem from="1671077146249" duration="1920000" />
+      <workItem from="1671211881532" duration="1507000" />
+      <workItem from="1674765280538" duration="1464000" />
+      <workItem from="1675281947868" duration="3406000" />
+      <workItem from="1676222095793" duration="1824000" />
+      <workItem from="1676339295490" duration="405000" />
+      <workItem from="1676939630750" duration="5291000" />
+      <workItem from="1677014118935" duration="1743000" />
+      <workItem from="1680840532389" duration="1087000" />
+      <workItem from="1680930525676" duration="2086000" />
+      <workItem from="1681336985325" duration="3010000" />
+      <workItem from="1681500731741" duration="7606000" />
+      <workItem from="1682225669888" duration="207000" />
+      <workItem from="1682300946905" duration="787000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

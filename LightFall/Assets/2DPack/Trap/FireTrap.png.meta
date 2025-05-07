@@ -1,0 +1,613 @@
+fileFormatVersion: 2
+guid: b6155d9883de0c24e992ee774fbc2b8b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6420516211900325196
+    second: FireTrap_0
+  - first:
+      213: 2167500343187852549
+    second: FireTrap_1
+  - first:
+      213: 2021689510740483255
+    second: FireTrap_2
+  - first:
+      213: 1552343881494123127
+    second: FireTrap_3
+  - first:
+      213: -6312923085947222159
+    second: FireTrap_4
+  - first:
+      213: -8575798016073631460
+    second: FireTrap_5
+  - first:
+      213: -4101514101266312964
+    second: FireTrap_6
+  - first:
+      213: -7393380067532852690
+    second: FireTrap_7
+  - first:
+      213: -5840456064733399385
+    second: FireTrap_8
+  - first:
+      213: -3388927822379821011
+    second: FireTrap_9
+  - first:
+      213: -6434726305279562435
+    second: FireTrap_10
+  - first:
+      213: -7539744369158464046
+    second: FireTrap_11
+  - first:
+      213: -3169787721322651440
+    second: FireTrap_12
+  - first:
+      213: 9171518054195450669
+    second: FireTrap_13
+  - first:
+      213: 5782761096568109748
+    second: FireTrap_14
+  - first:
+      213: -3716150640808877835
+    second: FireTrap_15
+  - first:
+      213: 7481796503472910956
+    second: FireTrap_16
+  - first:
+      213: 4184638996624467593
+    second: FireTrap_17
+  - first:
+      213: 853487963440508497
+    second: FireTrap_18
+  - first:
+      213: -6554201428906756118
+    second: FireTrap_19
+  - first:
+      213: 7346410515833058805
+    second: FireTrap_20
+  - first:
+      213: 2583575794154829631
+    second: FireTrap_21
+  - first:
+      213: 8295365324161125760
+    second: FireTrap_22
+  - first:
+      213: -2475979291823232733
+    second: FireTrap_23
+  - first:
+      213: -5986016616624617215
+    second: FireTrap_24
+  - first:
+      213: 925349300453330542
+    second: FireTrap_25
+  - first:
+      213: -8167479448016526351
+    second: FireTrap_26
+  - first:
+      213: 90338189829695505
+    second: FireTrap_27
+  - first:
+      213: 7010253117345163204
+    second: FireTrap_28
+  - first:
+      213: 1615129797354231185
+    second: FireTrap_29
+  - first:
+      213: -1117710620004090158
+    second: FireTrap_30
+  - first:
+      213: 1543098046207673267
+    second: FireTrap_31
+  - first:
+      213: 5878055211849150259
+    second: FireTrap_32
+  - first:
+      213: -8320782364881446969
+    second: FireTrap_33
+  - first:
+      213: -7217183252974167000
+    second: FireTrap_34
+  - first:
+      213: -2626381065917353055
+    second: FireTrap_35
+  - first:
+      213: -6216279784437735142
+    second: FireTrap_36
+  - first:
+      213: 1722649656548722259
+    second: FireTrap_37
+  - first:
+      213: -2174788960372059541
+    second: FireTrap_38
+  - first:
+      213: 6823666787797995310
+    second: FireTrap_39
+  - first:
+      213: 1696378169891882566
+    second: FireTrap_40
+  - first:
+      213: -3874053125540206264
+    second: FireTrap_41
+  - first:
+      213: 6949017995934019379
+    second: FireTrap_42
+  - first:
+      213: 805084002253129225
+    second: FireTrap_43
+  - first:
+      213: -7722954748702384872
+    second: FireTrap_44
+  - first:
+      213: 3611331967307219884
+    second: FireTrap_45
+  - first:
+      213: 8233940744706693548
+    second: FireTrap_46
+  - first:
+      213: -6704148833115493917
+    second: FireTrap_47
+  - first:
+      213: -9165306484486108954
+    second: FireTrap_48
+  - first:
+      213: 8422826099997108650
+    second: FireTrap_49
+  - first:
+      213: -7104465982693918002
+    second: FireTrap_50
+  - first:
+      213: -9070303852577172453
+    second: FireTrap_51
+  - first:
+      213: -5353697427383060030
+    second: FireTrap_52
+  - first:
+      213: 6838970849296490396
+    second: FireTrap_53
+  - first:
+      213: 6265599705782891291
+    second: FireTrap_54
+  - first:
+      213: 436167321129396601
+    second: FireTrap_55
+  - first:
+      213: -1980279685684868686
+    second: FireTrap_56
+  - first:
+      213: -3264299164368243503
+    second: FireTrap_57
+  - first:
+      213: -775264438710157720
+    second: FireTrap_58
+  - first:
+      213: -5397448831856032941
+    second: FireTrap_59
+  - first:
+      213: -3744729644007537707
+    second: FireTrap_60
+  - first:
+      213: 3699247242021441140
+    second: FireTrap_61
+  - first:
+      213: -2297009431065454686
+    second: FireTrap_62
+  - first:
+      213: -875190559945696353
+    second: FireTrap_63
+  - first:
+      213: -4438015367384824890
+    second: FireTrap_64
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FireTrap_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d94f43a714a1950800000000000000
+      internalID: 6420516211900325196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireTrap_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50dcf360412841e10800000000000000
+      internalID: 2167500343187852549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireTrap_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bcd1dd06eb7e0c10800000000000000
+      internalID: 2021689510740483255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireTrap_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77255b919880b8510800000000000000
+      internalID: 1552343881494123127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireTrap_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177c0cf86edf368a0800000000000000
+      internalID: -6312923085947222159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireTrap_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c197e621425acf880800000000000000
+      internalID: -8575798016073631460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireTrap_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf014c8d7ae7417c0800000000000000
+      internalID: -4101514101266312964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireTrap_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2230491000756990800000000000000
+      internalID: -7393380067532852690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireTrap_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a63a47372882fea0800000000000000
+      internalID: -5840456064733399385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireTrap_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28dc91d91c18f0d0800000000000000
+      internalID: -3388927822379821011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireTrap_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d23fa948243b6a0800000000000000
+      internalID: -6434726305279562435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireTrap_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ddde0b81727d5790800000000000000
+      internalID: -7539744369158464046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireTrap_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d02b299cd6a204d0800000000000000
+      internalID: -3169787721322651440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireTrap_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23d667d317c74f70800000000000000
+      internalID: 9171518054195450669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      FireTrap_13: 9171518054195450669
+      FireTrap_2: 2021689510740483255
+      FireTrap_5: -8575798016073631460
+      FireTrap_4: -6312923085947222159
+      FireTrap_11: -7539744369158464046
+      FireTrap_12: -3169787721322651440
+      FireTrap_0: 6420516211900325196
+      FireTrap_9: -3388927822379821011
+      FireTrap_10: -6434726305279562435
+      FireTrap_6: -4101514101266312964
+      FireTrap_8: -5840456064733399385
+      FireTrap_1: 2167500343187852549
+      FireTrap_7: -7393380067532852690
+      FireTrap_3: 1552343881494123127
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
